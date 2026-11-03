@@ -187,7 +187,7 @@ a { color: var(--gold-light); text-decoration: none; }
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url("../assets/img/hero.jpg") center 38% / cover no-repeat;
+    background: url("hero.jpg") center 38% / cover no-repeat;
     transform: scale(1.04);
     filter: saturate(1.05);
 }
